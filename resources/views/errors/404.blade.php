@@ -40,7 +40,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Be right back.</div>
+                <div class="title">No se encontro la Página.</div>
+                <a href="{{route('home')}}">Regresar a Home</a>
             </div>
         </div>
     </body>
